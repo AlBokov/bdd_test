@@ -7,7 +7,7 @@ import netology.page.DashboardPage;
 import netology.page.LoginPage;
 
 
-import static com.codeborne.selenide.Selenide.$;
+
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
